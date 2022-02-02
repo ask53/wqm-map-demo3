@@ -117,9 +117,9 @@ var HISTORICAL_BASE_URLS = [["https://ask53.github.io/wqm-map-demo3/img/0_target
 							"https://ask53.github.io/wqm-map-demo3/img/red-black.png"],
 							[0,0,0,0,"https://ask53.github.io/wqm-map-demo3/img/4_target.png"]];
 
-var SMALL_ICON_SIZE = [16,16]; 			// The pixel x and y that the final marker icon image is scaled to.
-var LARGE_ICON_SIZE = [24,24];			// A larger marker for the base of the spider
-var EXTRA_SMALL_ICON_SIZE = [16,16]		// extra small icon size for base point without historical data
+var SMALL_ICON_SIZE = [24,24]; 			// The pixel x and y that the final marker icon image is scaled to.
+var LARGE_ICON_SIZE = [36,36];			// A larger marker for the base of the spider
+var EXTRA_SMALL_ICON_SIZE = [24,24]		// extra small icon size for base point without historical data
 var BASE_ICONS = [0,0,0,0,0];				// Initialize an array to hold all the icons, so the images
 var SPIDER_ICONS = [0,0,0,0,0];			//	only need to be grabbed once.
 var BASE_SPIDER_ICONS = [0,0,0,0,0];
